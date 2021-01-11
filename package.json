@@ -1,0 +1,20 @@
+
+{
+  "name": "react-native-code-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "danhhoang",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.63.3",
+    "react-native-windows": "0.63.16"
+
+  }
+}
